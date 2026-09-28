@@ -1,0 +1,16 @@
+﻿Part No.,Article In stock,Inventory Quantity (used),Rule
+MA09,27,28,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0015,170,512,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0017,452,852,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0053,3466,7372,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0083,572,835,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0084,1187,7437,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0138,25,307,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0139,77,222,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0172 - OBS,20,31,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0229,64,239,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0289-OBS,15,55,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0381,0,150,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0478,431,1131,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+MFG0479,437,1137,Use inventory_20260928.csv Quantity; never sum overlapping snapshots
+SA038-OBS,0,1,Use inventory_20260928.csv Quantity; never sum overlapping snapshots

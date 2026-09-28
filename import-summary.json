@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-28",
+  "filesProcessed": 9,
+  "sources": [
+    {
+      "name": "articles_20260928.csv",
+      "rows": 2108
+    },
+    {
+      "name": "articles_20260928 (1).csv",
+      "rows": 31
+    },
+    {
+      "name": "articles_20260928 (2).csv",
+      "rows": 14
+    },
+    {
+      "name": "articles_20260928 (3).csv",
+      "rows": 128
+    },
+    {
+      "name": "articles_20260928 (4).csv",
+      "rows": 31
+    },
+    {
+      "name": "articles_20260928 (5).csv",
+      "rows": 302
+    },
+    {
+      "name": "articles_20260928 (6).csv",
+      "rows": 3
+    },
+    {
+      "name": "articles_20260928 (7).csv",
+      "rows": 6
+    },
+    {
+      "name": "inventory_20260928.csv",
+      "rows": 1154
+    }
+  ],
+  "rowsRead": 3777,
+  "uniqueBeforeExclusions": 2118,
+  "duplicateRowsRemoved": 1659,
+  "importedParts": 1692,
+  "excludedParts": 426,
+  "stockDifferences": 15,
+  "articleFieldConflicts": 0,
+  "exclusionReasons": {
+    "Office furniture / equipment": 63,
+    "Software / licences": 3,
+    "Office supplies": 149,
+    "Building / washroom cleaning supplies": 14,
+    "3D-printer maintenance": 62,
+    "Shipping service": 1,
+    "Postage": 1,
+    "Asset tracking accessory": 1,
+    "Unidentified placeholder item": 1,
+    "Office / kitchen cups": 1,
+    "Office supplies / clothing": 1,
+    "Shipping cost": 1,
+    "Clothing / promotional merchandise": 31,
+    "Education / training": 6,
+    "Customs declaration": 1,
+    "Transaction fees": 3,
+    "Furniture / storage fixtures": 24,
+    "3D-printer equipment / accessories": 19,
+    "Filament / 3D-printing feedstock": 16,
+    "Duty / tax": 1,
+    "Vehicle rental": 1,
+    "Vehicle fuel": 2,
+    "Bambu P1 printer toolhead cable": 1,
+    "Gift / promotional packaging": 2,
+    "Marketing materials": 1,
+    "Market-access service": 1,
+    "Office computer assets": 4,
+    "Meals / entertainment": 2,
+    "Show supplies": 1,
+    "Certification / compliance services": 6,
+    "Online course": 2,
+    "Supplier store credit": 1,
+    "Subscriptions": 1,
+    "Building floor coating": 1,
+    "Availability placeholder, not a part": 1
+  },
+  "groups": {
+    "Research & Development": 386,
+    "Prod Tool & Equipment": 36,
+    "Urethane Molding": 7,
+    "Consumable": 92,
+    "Ungrouped": 12,
+    "Tools": 119,
+    "Shipping": 11,
+    "Shipping Supply": 26,
+    "Prod Tool Maintenance": 4,
+    "Vinyl": 5,
+    "Small Tools": 28,
+    "Sub Assembly": 139,
+    "Test & Commissioning Suplies": 7,
+    "Fasteners": 187,
+    "3D Print": 277,
+    "Warranty Items for Customer": 2,
+    "Off the Shelf": 131,
+    "MFG Service": 7,
+    "Manufacturing": 121,
+    "Modular": 25,
+    "Insert Assembly": 31,
+    "KIT": 18,
+    "Small Assembly": 15,
+    "Finished Product": 6
+  },
+  "quantityPolicy": "Use inventory_20260928.csv Quantity when supplied; otherwise article In stock. Never add quantities from duplicate snapshots.",
+  "duplicatePolicy": "Same part number, ignoring case and whitespace. Distinct numbers, -OBS suffixes and revisions stay separate.",
+  "sourcePolicy": "Main articles CSV first; category CSVs add missing items and fill blank metadata. Inventory CSV overrides its nonblank shared fields and quantity.",
+  "legacyPolicy": "Existing library weight retained only when CSV weight is blank. Existing live edits and stock movements are preserved during migration."
+}

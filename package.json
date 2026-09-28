@@ -1,0 +1,15 @@
+{
+  "name": "tcg-refurb-shop",
+  "version": "2.2.0",
+  "description": "TCG Refurb Shop with merged editable inventory, searchable MO parts, and preserved editable starter units.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test *.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,555 @@
+﻿Part No.,Description,Category,Group number,Group name,On Hand,UoM,Min Stock,Location,Status,Fits,Weight g,Qty per machine,Vendor name,Vendor part no.,Revision,Material,Notes,Quantity source,Source files,Exclusion reason
+A00140,"Lan Cable, 30ft",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A00151,MRPeasy software,Other,AG00032,Software & Licenses,0,EA,0,,Active,,,1,MRP Easy,,,,,,articles_20260928.csv,Software / licences
+A00168,SD Mem Card,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Walmart,,,,,,articles_20260928.csv,Office supplies
+A00169,Silver Sharpie,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,"Walmart
+Amazon",,,,,,articles_20260928.csv,Office supplies
+A00257,HDMI Cable 6.6feet(2meter),Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A00260,"Garbage Bags, 50 L",Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,"COSTCO
+Amazon",,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A00262,"Garbage Bags, 45 Gallon",Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,"COSTCO
+Amazon",,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A00269,Silicone Sock for Hotend,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,"Amazon
+Bambu lab",,,,,,articles_20260928.csv,3D-printer maintenance
+A00270,Ceramic Heater & Thermistor - X1 Series,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,0,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00271,Hotend with Nozzle 0.2mm Stainless Steel,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00272,Thermistor - X1 Series,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00273,Complete Hotend Assembly - X1 Series 0.2mm Stainless Steel,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00274,Complete Hotend Assembly - P1 Series 0.6mm Hardened Steel,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00275,Hardened Steel Extruder Gear Assembly,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00276,Cooling Fan for Hotend - P1 Series,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00277,Domestic part shippment,Other,,,0,EA,0,,Active,,,1,Shoppers,,,,,,articles_20260928.csv,Shipping service
+A00278,Permanente Canadian Stamp,Consumable,Shipping,Shipping,0,EA,0,,Active,,,1,Shoppers,,,,,,articles_20260928.csv,Postage
+A00283,Apple AirTag Pack of 4,Consumable,AG00017,Consumable,0,EA,0,,Active,,,1,"Amazon
+COSTCO
+Apple Store - Chinook Mall",,,,,,articles_20260928.csv,Asset tracking accessory
+A00297,T314XL Claria Photo HD Ink - Gray (T314XL Gray),Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A00298,HP 48A (CF248A) Black Original Toner Cartridge,Other,AG00025,Office Supply,0,,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A00299,Epson T312XL120 Claria Photo HD Black High Capacity Cartridge Ink,Other,AG00025,Office Supply,0,,0,,Active,,,1,"Epson Canada
+Amazon",T312XL120-S,,,,,articles_20260928.csv,Office supplies
+A00300,Epson T312 Colour Combo Pack Epson T312923 Claria Photo HD Colour Combo Pack Standard Capacity Cart,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A00347,DICK,Other,,,0,,0,,Active,,,1,,,,,,,articles_20260928.csv | inventory_20260928.csv,Unidentified placeholder item
+A00361,Plastics Cups,Consumable,AG00017,Consumable,0,EA,0,,Active,,,1,Dollarama,,,,,,articles_20260928.csv,Office / kitchen cups
+A00362,Wooden Spoons,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Dollarama,,,,,,articles_20260928.csv,Office supplies
+A00363,PTFE Tube Connector,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00364,Bambu PTFE Tube - 4000mm,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00365,"Post-it Greener Notes, 3 in x 3 in",Consumable,AG00017,Consumable,0,EA,0,,Active,,,1,"COSTCO
+Amazon",,,,,,articles_20260928.csv,Office supplies / clothing
+A00369,Extension Cable,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,"Home Depot
+COSTCO",,,,,,articles_20260928.csv,Office supplies
+A00385,EPSON Printer - ET3850,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,COSTCO,1625642,,,,,articles_20260928.csv,Office supplies
+A00386,EPSON ECO Tank Ink,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,COSTCO,1244784,,,,,articles_20260928.csv,Office supplies
+A00387,Sharpies pack,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,"Amazon
+COSTCO",2153941,,,,,articles_20260928.csv,Office supplies
+A00423,Pentel EnerGel-X Retractable Liquid Gel Pen,Other,AG00025,Office Supply,0,,0,,Active,,,1,"Dollarama
+Amazon",,,,,,articles_20260928.csv,Office supplies
+A00464,Shipping Cost,Consumable,Shipping,Shipping,0,EA,0,,Active,,,0,"Digi-Key Electronics
+3D Lab tech
+Victory Springs
+First  Player Canada
+Shoppers
+Canada Post
+3D CENTRAL VA
+Fastenal
+FastEddy Bearings
+UPS
+Ali Express
+3DQue
+McMaster-Carr
+Bambu lab
+DB Roberts
+JLCPCB
+Global O-Ring
+Online Components
+RobotDigg
+Static Clean
+OpenBorder
+Nuvotech
+Lily Bearing
+Arrowwood Fab Shop
+Alibaba
+Home Depot
+Uline
+Pyn Gtel
+DHL Express
+Ailipu Camera - ELP
+Data Alliance
+Weihai Hualing Opto-Electronics Co., Ltd.
+Zintilon Co LTD.
+Assun Motor
+Fern
+Messe Essen
+Foshan HuanYuan Technology Electron Co.",S-22526BL,,,,,articles_20260928.csv,Shipping cost
+A00472,Sharpie® Highlighters - Tank Assortment Pack 12/pack,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Office supplies
+A00484,IdeaFormer-3D for Bambu Lab Build Plate Smooth PEO,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,"Ali Express
+Alibaba
+Amazon",,,,,,articles_20260928.csv,3D-printer maintenance
+A00489,"USB Cables / IEEE 1394 Cables USB 2.0 A to Micro­B,(M/M)",Other,AG00025,Office Supply,1,EA,0,,Active,,,1,Mouser,USB CABLE MICRO 80,,,,,articles_20260928.csv | inventory_20260928.csv,Office supplies
+A00491,TCG Machines Promo T-Shirts,Other,AG00016,Promo Apparel (Merchandise Goods),0,,0,,Active,,,1,,,,,,,articles_20260928.csv,Clothing / promotional merchandise
+A00493,"Amazon Basics Legal/Wide Ruled 8-1/2 by 11-3/4 Legal Pad - White (50 Sheet Paper Pads, 12 pack)",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A00536,TCG Card PLayer BOX,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Treasure Cove LTD,,,,,,articles_20260928.csv,Office supplies
+A00595,Secrets of Sand Hill Road: Venture Capital and How to Get It,Other,AG00043,Educational Funds,0,EA,0,,Active,,,0,Amazon,,,,,,articles_20260928.csv,Education / training
+A00639,Gigastone 32GB 5-Pack Micro SD Card,Other,AG00019,3D Printer Maintenance,2,,0,,Active,,,0,Amazon,,,,,,articles_20260928.csv | inventory_20260928.csv,3D-printer maintenance
+A00655,Custom Declaration,Consumable,Shipping,Shipping,0,EA,0,,Active,,,0,"Lily Bearing
+Data Alliance
+Assun Motor
+Global O-Ring",,,,,,articles_20260928.csv,Customs declaration
+A00656,Transaction fee,Other,AG00030,Transaction fee,0,EA,0,,Active,,,0,Assun Motor,,,,,,articles_20260928.csv,Transaction fees
+A00670,Really Useful Box Storage Box - 31L - Smoke,Other,AG00025,Office Supply,0,EA,0,,Active,,,0,Staple,,,,,,articles_20260928.csv,Office supplies
+A00689,Complete Hotend Assembly - X1 Series 0.4mm Stainless Steel,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,0,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00690,Complete Hotend Assembly - P1 Series 0.4mm Hardened Steel,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,0,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00691,Ceramic Heater & Thermistor - P1 Series,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,0,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00692,Bambu Cool Plate SuperTack,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,0,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00693,Hotend with Nozzle 0.4mm Stainless Steel,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,0,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00694,Creality K1 Upgraded Ceramic Heating Block Kit,Other,AG00019,3D Printer Maintenance,0,,0,,Active,,,0,Amazon,,,,,,articles_20260928.csv,3D-printer maintenance
+A00704,Auto Part Ejection Kit with VAAPR Bed - Bambu P1S,Other,AG00019,3D Printer Maintenance,1,EA,0,,Active,,,0,3DQue,,,,,,articles_20260928.csv | inventory_20260928.csv,3D-printer maintenance
+A00733,"Black Garbage Bags, 42 in x 48 in",Other,AG00025,Office Supply,0,,0,,Active,,,0,"COSTCO
+Cregg Distribution",,,,,,articles_20260928.csv,Office supplies
+A00740,"Plastic Stackable Bins - 9 1⁄2 x 6 x 5"", Blue",Tools,AG00024,Prod Tool & Equipment,0,,0,,Active,,,0,Uline,S-20581BLU,,,,,articles_20260928.csv,Furniture / storage fixtures
+A00741,"Plastic Stackable Bins - 15 x 8 x 7"", Clear",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,0,Uline,S-12419C,,,,,articles_20260928.csv,Furniture / storage fixtures
+A00742,"Dual Band Wi-Fi 6E AX210 M.2 2230 Wireless Network Adapter Card w/ 802.11 a/b/g/n/ac/ax, Bluetooth v",Other,AG00025,Office Supply,0,EA,0,,Active,,,0,Memory Express,,,,,,articles_20260928.csv,Office supplies
+A00749,"Kirkland Signature Ultra Soft Facial Tissues, 12-pack",Other,AG00025,Office Supply,0,EA,0,,Active,,,0,COSTCO,313740,,,,,articles_20260928.csv,Office supplies
+A00761,Bambu Lab P1S 3D Printer P1S Combo,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,0,"Bambu lab
+Memory Express
+NEX3D",P1S Combo,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A00769,Logitech M185 Wireless Mouse,Other,AG00025,Office Supply,0,EA,0,,Active,,,0,Amazon,,,,,,articles_20260928.csv,Office supplies
+A00792,"Plastic Stackable Bins - 5 1/2 x 4 x 3"", Yellow",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,0,Uline,S-12413R,,,,,articles_20260928.csv,Furniture / storage fixtures
+A00793,"Length Dividers for Stackable Bins - 15 x 7""",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,0,Uline,S-12419D,,,,,articles_20260928.csv,Furniture / storage fixtures
+A00796,Bambu Lab AMS - Automatic Material System,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,0,"Memory Express
+Bambu lab
+NEX3D",,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A00798,PLA Basic (Refill) - Filament without spool / 1 kg / Black,Other,AG00014,"3D Printing Material (FDM, SLS)",231975.9905,gr,0,,Active,,,1,"Bambu lab
+NEX3D
+Memory Express
+RepRap Warehouse",,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A00800,PLA Basic (Refill) - Filament without spool / 1 kg / Orange,Other,AG00014,"3D Printing Material (FDM, SLS)",486122.9775,gr,0,,Active,,,1,"RepRap Warehouse
+Elegoo
+Bambu lab
+NEX3D
+Amazon
+Spool3d",728,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A00801,PLA Basic - Filament without spool / 1 kg / Grey,Other,AG00014,"3D Printing Material (FDM, SLS)",795703.036,gr,0,,Active,,,901.52,"RepRap Warehouse
+Bambu lab
+NEX3D",732,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A00834,Hotend with Nozzle 0.8mm Stainless Steel,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,0,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00835,PETG Translucent × 1 Filament with spool / 1 kg / Translucent clear (32101),Other,R&D,Research & Development,0,gr,0,,Active,,,0,Bambu lab,,,,,,articles_20260928.csv,Filament / 3D-printing feedstock
+A00836,Hotend with Nozzle 0.6mm Stainless Steel,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,0,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00849,Duty and Tax,Consumable,Shipping,Shipping,0,EA,0,,Active,,,0,Global O-Ring,,,,,,articles_20260928.csv,Duty / tax
+A00857,ABS - Filament with spool / 1 kg / Black,Other,AG00014,"3D Printing Material (FDM, SLS)",58982.26,gr,0,General,Active,,,174.85,"RepRap Warehouse
+Bambu lab",,,ABS,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A00858,PETG HF - Filament with spool / 1 kg / Black,Other,AG00014,"3D Printing Material (FDM, SLS)",46000,gr,0,General,Active,,,0,Bambu lab,,,ABS,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A00867,"Asixxsix, Key Lock Box, Aluminum Alloy Wall Mounted Security Key Organizer",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A00885,"Filament Connector, Filament Splicer with 200Pcs PTFE Sleeve for 3D Printer Filament 1.75mm, Fast He",Tools,AG00029,Small Tools,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Filament / 3D-printing feedstock
+A00890,Bambu Lab H2D 3D Printer Combo,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,0,Bambu lab,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A00891,Vision Encoder Bed,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00892,Bambu High Flow Hotend - H2D,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00893,Bambu Hotend - H2D -  0.2mm Stainless Steel,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00894,Bambu Hotend - H2D -  0.4mm Stainless Steel,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00895,Bambu Smooth PEI Plate - H2D,Other,AG00019,3D Printer Maintenance,0,,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A00922,Anti-Vibration Feet,Other,AG00019,3D Printer Maintenance,17,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv | inventory_20260928.csv,3D-printer maintenance
+A00924,PET-CF / Filament with Spool / 1kg / Black,Other,AG00014,"3D Printing Material (FDM, SLS)",0,gr,0,,Active,,,1,"RepRap Warehouse
+Bambu lab",,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A00932,UGREEN Cat 8 Ethernet Cable 15FT,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A00933,UGREEN Cat 8 Ethernet Cable 30FT,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A00938,2m DP 1.2 to HDMI 2.0 Cable,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Memory Express,6941876217748,,,,,articles_20260928.csv,Office supplies
+A00940,"Logitech K400, Keyboard and trackpad",Other,AG00025,Office Supply,0,,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office supplies
+A00943,HDMI to Mini DP adapter,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office supplies
+A00995,Micro SD Card ( 128 GB Sandisk Extreme),Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,3D-printer maintenance
+A01015,10Ft USB2.0 Transparent Cable,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Memory Express,065030795890,,,,,articles_20260928.csv,Office supplies
+A01016,Storage BOX,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,"Dollarama
+Walmart",,,,,,articles_20260928.csv,Office supplies
+A01031,Bambu Bus Cable - 6pin (AMS to AMS/Hub/Buffer) / 1500mm,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01032,PLA Basic (Refill) - Filament without spool / 1 kg / Green,Other,AG00014,"3D Printing Material (FDM, SLS)",18582.8,gr,0,,Active,,,1.4,"RepRap Warehouse
+Elegoo
+Bambu lab
+NEX3D
+Amazon
+Spool3d",728,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A01033,Bambu Lab AMS HT - Automatic Material System,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01039,"Plastic Stackable Bins - 5 1/2 x 4 x 3"", Red",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,0,Uline,S-12419R,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01045,Additional fee,Other,AG00030,Transaction fee,0,,0,,Active,,,1,"Memory Express
+COSTCO
+Alibaba
+Lily Bearing
+RobotDigg
+Sxet Glass
+IMS",,,,,,articles_20260928.csv,Transaction fees
+A01068,"Epson 312XL, Cyan Ink Cartridge, High-capacity",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Epson Canada,T312XL220-S,,,,,articles_20260928.csv,Office supplies
+A01069,"Epson 312XL, Magenta Ink Cartridge, High-capacity",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Epson Canada,,,,,,articles_20260928.csv,Office supplies
+A01070,"Epson 312XL, Yellow Ink Cartridge, High-capacity",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Epson Canada,,,,,,articles_20260928.csv,Office supplies
+A01071,"Epson 314XL, Color Ink Cartridges, Grey/Red, 2-pack",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Epson Canada,T314XL922-S,,,,,articles_20260928.csv,Office supplies
+A01072,90-inch W x 90-inch H x 24-inch D 5-Shelf Heavy Duty Industrial Welded Steel Garage Storage Rack She,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Home Depot,HBR902490W5C,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01075,"Shelf Bin Organizer - 36 x 12 x 75"" with 2 3⁄4 x 12 x 4"" Red Bins",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,H-2513R,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01076,"Industrial Packing Table - 72 x 30"", Composite Wood Top",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,H-1137-WOOD,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01095,Bambu Lab AMS Hub X1 Series and P1 Series,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01096,Bambu 4-in-1 PTFE Adapter,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01097,Extruder Interface Board - P1 Series P1 Series Exclusive,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01104,Bank Fee,Other,AG00030,Transaction fee,0,EA,0,,Active,,,1,Ailipu Camera - ELP,,,,,,articles_20260928.csv,Transaction fees
+A01116,Husky 39-inch W x 72-inch H x 18.5-inch D Metal (Steel) 4-Shelf Customizable Shelving Unit in Black,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Home Depot,1001115437,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01117,Cutting Key,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,"Home Depot
+Parry Bros Lock & Safe
+B&W Lock Smith",,,,,,articles_20260928.csv,Office supplies
+A01120,Car Rental,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Home Depot,,,,,,articles_20260928.csv,Vehicle rental
+A01121,Gas,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Home Depot,,,,,,articles_20260928.csv,Vehicle fuel
+A01127,Scissors,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,"Dollarama
+Amazon",,,,,,articles_20260928.csv,Office supplies
+A01136,P1 Series Toolhead Cable,Other,,,0,EA,0,,Active,,,1,,,,,,,articles_20260928.csv,Bambu P1 printer toolhead cable
+A01138,P1 Series Toolhead Cable,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01139,TH Board - P1 Series,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01140,Front Housing Assembly,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01155,Head Band - TCG Machines,Other,AG00016,Promo Apparel (Merchandise Goods),24,EA,0,,Active,,,1,Open Tip,5LAA-LAA0021-2,,,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01157,Keurig Kirikland pods - 120 pcs,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,COSTCO,,,,,,articles_20260928.csv,Office supplies
+A01164,Nespresso Descaling Kit - Essential Maintenance Solution for Coffee Machines - 2 Bottles of Descali,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01169,Black - Spectrum PC/ABS FR V0 - 1.75mm,Other,AG00014,"3D Printing Material (FDM, SLS)",1000,gr,0,,Active,,,1,3dprintingcanada,5905991400714,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A01171,ProtoArc Ergonomic Vertical Mouse,Other,AG00025,Office Supply,1,,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv | inventory_20260928.csv,Office supplies
+A01172,Memory Foam Set Keyboard Wrist Rest Pad,Other,AG00025,Office Supply,1,,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv | inventory_20260928.csv,Office supplies
+A01181,Hoodie - PhyzBatch Definition - L,Other,AG00016,Promo Apparel (Merchandise Goods),40,EA,0,,Active,,,1,"Entripy
+Card Pro","18600
+ATCF2600",,Fleece,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01182,Hoodie - PhyzBatch Definition - XL,Other,AG00016,Promo Apparel (Merchandise Goods),6,EA,0,,Active,,,1,"Entripy
+Card Pro","18600
+ATCF2600",,Fleece,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01183,Hoodie - PhyzBatch Definition - XXL,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,"Entripy
+Card Pro","18600
+ATCF2600",,Fleece,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01184,Hoodie - PhyzBatch Definition - 4XL,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Card Pro,ATCF2600,,Fleece,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01185,Hoodie - PhyzBatch Definition - M,Other,AG00016,Promo Apparel (Merchandise Goods),1,EA,0,,Active,,,1,Card Pro,ATCF2600,,Fleece,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01186,Polo Shirt - TCGM Logo  - Grey - M,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Card Pro,S4047,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01187,Polo Shirt - TCGM Logo  - Grey - L,Other,AG00016,Promo Apparel (Merchandise Goods),1,EA,0,,Active,,,1,Card Pro,S4047,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01188,Polo Shirt - TCGM Logo  - Grey - XL,Other,AG00016,Promo Apparel (Merchandise Goods),2,EA,0,,Active,,,1,Card Pro,S4047,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01189,Polo Shirt - TCGM Logo  - Grey - XXL,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Card Pro,S4047,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01190,Polo Shirt - TCGM Logo  - Black - M,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Card Pro,S4047,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01191,Polo Shirt - TCGM Logo  - Black - L,Other,AG00016,Promo Apparel (Merchandise Goods),53,EA,0,,Active,,,1,Card Pro,S4047,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01192,Polo Shirt - TCGM Logo  - Black - XL,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Card Pro,S4047,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01193,Polo Shirt - TCGM Logo  - Black - XXL,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Card Pro,S4047,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01194,Polo Shirt - TCGM Logo  - Black - 4XL,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Card Pro,S4047,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01195,Baseball Cap - TCGM Logo - Black,Other,AG00016,Promo Apparel (Merchandise Goods),71,EA,0,,Active,,,1,"Entripy
+Card Pro","FF5001
+NE400",,,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01196,Tee Shirt - PhyzBatch Definition  - Black - M,Other,AG00016,Promo Apparel (Merchandise Goods),2,EA,0,,Active,,,1,"Entripy
+Card Pro","64000
+6400",,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01197,Tee Shirt - PhyzBatch Definition  - Black - L,Other,AG00016,Promo Apparel (Merchandise Goods),91,EA,0,,Active,,,1,"Entripy
+Card Pro","64000
+6400",,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01198,Tee Shirt - PhyzBatch Definition  - Black - XL,Other,AG00016,Promo Apparel (Merchandise Goods),1,EA,0,,Active,,,1,"Entripy
+Card Pro","64000
+6400",,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01199,Tee Shirt - PhyzBatch Definition  - Black - XXL,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,"Entripy
+Card Pro","64000
+6400",,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01200,Tee Shirt - PhyzBatch Definition  - Black - 4XL,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Card Pro,6400,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01204,Tee Shirt - PhyzBatch Definition  - Black - S,Other,AG00016,Promo Apparel (Merchandise Goods),2,EA,0,,Active,,,1,"Entripy
+Card Pro","64000
+6400",,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01205,Tee Shirt - PhyzBatch Definition  - Black - 3XL,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Entripy,64000,,Cotton,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01213,Jacquard Idye Synth Fabric: Orange,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Clothing / promotional merchandise
+A01219,Numeric Keypad,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Memory Express,804039004608,,,,,articles_20260928.csv,Office supplies
+A01221,Boot tray,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,COSTCO,,,,,,articles_20260928.csv,Office supplies
+A01223,Utility Mat,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,COSTCO,,,,,,articles_20260928.csv,Office supplies
+A01224,Entrance Mat,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,COSTCO,,,,,,articles_20260928.csv,Office supplies
+A01225,Pinesol Lava,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,COSTCO,,,,,,articles_20260928.csv,Office supplies
+A01240,Husky 6ft Workbench,Tools,AG00024,Prod Tool & Equipment,3,EA,0,,Active,,,1,Home Depot,1001798832,,,,,articles_20260928.csv | inventory_20260928.csv,Furniture / storage fixtures
+A01242,Husky 52in Tool Chest,Tools,AG00024,Prod Tool & Equipment,3,,0,,Active,,,1,Home Depot,1001862763,,,,,articles_20260928.csv | inventory_20260928.csv,Furniture / storage fixtures
+A01243,Satechi 6 in 1 USB C Hub Multiport Adapter with HDMI 4K@60Hz,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01246,"Packing Table Additional Shelf - Fits 72 x 36"" Table",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01247,"Poly Pegboard - 48 x 24"", Black",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01248,43-Piece Pegboard Assortment - Black,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01251,Uline Work Stool,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01252,Casters for Office Chairs and Work Stools - Set of 5,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01253,SOLIDWORKS Standard with Cloud Services - Perpetual License Charge,Other,AG00032,Software & Licenses,0,,0,,Active,,,1,Javelin Technologies,SCWW-PLC,,,,,articles_20260928.csv,Software / licences
+A01254,Subscription Service & Support - SOLIDWORKS Standard with Cloud Services - 1 Year Initial requiremen,Other,AG00032,Software & Licenses,0,,0,,Active,,,1,Javelin Technologies,SCWW-ALC,,,,,articles_20260928.csv,Software / licences
+A01264,Hikvision NVR 16Channel 13-Piece Camera-Kit × 1,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Nuvotech,,,,,,articles_20260928.csv,Office furniture / equipment
+A01273,"MX Master 3S Performance Wireless Optical Mouse, Black",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Memory Express,MX00121480,,,,,articles_20260928.csv,Office supplies
+A01274,"Aukey KM-P2 Gaming Mouse Pad Large, Black",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Memory Express,MX00130454,,,,,articles_20260928.csv,Office supplies
+A01282,"Industrial Packing Table - 96 x 30"", Composite Wood Top",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01283,"Cord Protector - 5', Standard, Black",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Office supplies
+A01293,UGREEN Cat 8 Ethernet Cable 10FT,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01294,"Amazon Fire TV Stick 4K Max (newest model), streaming device, supports Wi-Fi 6E, free & live TV with",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01297,"HOOBRO Shoe Rack, 5-Tier Shoe Storage Unit, Shoe Organizer Shelf for 16-20 Pairs, Saving Space, Dura",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01301,25ft cat5e Patch - Black,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office furniture / equipment
+A01302,35ft Cat7 SSTP Cable BK,Other,AG00022,Office Fixture & Equipment,0,,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office furniture / equipment
+A01303,50ft Cat5e Patch - Black,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office furniture / equipment
+A01304,5 port Gigabit Switch w/POE+,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Memory Express,MX00119836,,,,,articles_20260928.csv,Office furniture / equipment
+A01357,INIU Wireless Charger,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A01396,USB 3.0 Type A to Type A Cable 3ft,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A01399,CHRORINE 60 Sheets Black Tissue Paper for Halloween,Consumable,AG00017,Consumable,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Gift / promotional packaging
+A01400,25-Pack Orange Gift Bags with Handles - Medium Size Paper Bags,Consumable,AG00017,Consumable,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Gift / promotional packaging
+A01433,Lego,Other,AG00016,Promo Apparel (Merchandise Goods),0,,0,,Active,,,1,,,,,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01434,Quilt,Other,AG00016,Promo Apparel (Merchandise Goods),0,,0,,Active,,,1,,,,,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01436,High Flow Tungsten Carbide Nozzle - H2/P2S,Other,AG00019,3D Printer Maintenance,1,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv | inventory_20260928.csv,3D-printer maintenance
+A01471,Promotional Card Packs,Other,AG00034,Marketing Materials,0,EA,0,,Active,,,1,,,,,,,articles_20260928.csv | inventory_20260928.csv,Marketing materials
+A01483,Filament Cutter Lever (P1S),Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01484,P1S Screw Kit (Internal),Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01485,XY Belt (P1S),Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01486,Z Belt (P1S),Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01487,Lubricant Grease for Printer,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01490,"BEYGORM Magnetic Dry Erase Marker Holder for Whiteboard,Non-slip Acrylic Magnet Pen Holder for Fridg",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01493,"NOTEFUL Liquid Ink Rollerball Pens, Multicolor 0.7mm Point",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01494,Magnetic Fine Tip White Board Markers,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,"Staple
+Amazon",,,,,,articles_20260928.csv,Office supplies
+A01501,Crocs,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01502,"Scotties Original Everyday Care Facial Tissue, Hypoallergenic and Dermatologist Tested, 24 Boxes, 12",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01503,Magnetic Tree Cover for Fluorescent Or LED Fixture - Fluorescent Light Covers for Ceiling Lights,Other,AG00025,Office Supply,0,,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01504,Fluorescent Light Covers for Ceiling Lights - Magnetic Cloud Cover for Fluorescent Or LED Fixture,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01505,2026 Double Sided Wall Calendar for 12 Month Year Planner Dry Erase Calendar Monthly Calendar Schedu,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01509,HyperX Wrist Rest - Full Sized - Cooling Gel - Memory Foam - Anti-Slip - Ergonomic - Keyboard Acces,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01510,"INIU Wireless Charger Station, 15W Fast Qi-Certified Wireless Charging Stand for Official and Home C",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01511,"Aceele USB Hub 3.0 Splitter with 4ft Extension Long Cable Cord, 4-Port Extra Slim Multiport Expander",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01513,Global Market Access Service,Other,,,0,EA,0,,Active,,,1,CSA,,,,,,articles_20260928.csv,Market-access service
+A01524,Extruder Filament Sensor - P1 Series,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01526,Stainless Steel Extruder Unit - P1 Series,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01531,"Officemate Large Incline Sorter, 8 Compartment, Wire, 8.5 x 10.375 x 12.625 Inches, Black (25212)",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01545,UGREEN 8K USB C to HDMI 2.1 Cable 8K@60Hz 4K@240Hz 6.6FT Thunderbolt 4/3 to HDMI 48Gbps HDR HDCP2.3,Other,AG00025,Office Supply,6,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv | inventory_20260928.csv,Office supplies
+A01546,"Satechi Thunderbolt 4 Dock Slim Hub Pro, USB C 100W Charging, Single 8K or Dual 4K Display, 4 Thunde",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01548,Coat Rack,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01552,"Torixqi 2pcs Fluorescent Light Covers - Light Covers for Ceiling Lights Classroom, Magnetic Light Fi",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01553,"Torixqi 2pcs Fluorescent Light Covers - Light Covers for Ceiling Lights Classroom, Magnetic Light Fi",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01555,"zmybcpack 12 Pack 8.5x11 inch Large Lined Notebook Journals Bulk, 32 sheets / 64 Pages, Kraft Brown",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01559,Vileda One Sweep Broom with Step-On Dustpan | Catches Over 99% of Dust & Dirt | Indoor Broom,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01561,ROG Strix G16 (2025) Gaming Laptop5080 Laptop GPU  32GB  1TB,Other,AG00036,Tangible Assets - Computer,0,EA,0,,Active,,,1,Asus,90NR0LG1-M00A10,,,,,articles_20260928.csv,Office computer assets
+A01562,Crew Lunch/Dinner,Other,AG00037,Meals & Entertainment,0,,0,,Active,,,1,Mug Shotz Sports Bar & Grill,,,,,,articles_20260928.csv,Meals / entertainment
+A01567,Show Supplies,Consumable,Shipping,Shipping,0,EA,0,,Active,,,1,,,,,,,articles_20260928.csv | inventory_20260928.csv,Show supplies
+A01571,CM&E Membership,Other,AG00038,Certification & Compliance,0,EA,0,,Active,,,1,CM&E,,,,,,articles_20260928.csv,Certification / compliance services
+A01572,"International Certification, IECEE Certification",Other,AG00038,Certification & Compliance,0,EA,0,,Active,,,1,CSA,,,,,,articles_20260928.csv,Certification / compliance services
+A01573,"North American Certification, Model Certification",Other,AG00038,Certification & Compliance,0,EA,0,,Active,,,1,CSA,,,,,,articles_20260928.csv,Certification / compliance services
+A01590,SteelSeries QcK Gaming Mouse Pad - Small Cloth - Optimized For Gaming Sensors,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01592,Lean Level I Yellowbelt,Other,AG00038,Certification & Compliance,0,EA,0,,Active,,,1,CM&E,,,,,,articles_20260928.csv,Certification / compliance services
+A01593,"Amazon Basics Binder Clips, 0.31"" Capacity, 3/4"" Wide(Small), Black, 144 pcs",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01594,"Pendaflex Tabs for Hanging File Folders, 2-Inch Clear Plastic, Locking Design, Top-Loading Inserts,",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01595,"Pendaflex File Folders, 100/Box, 1/2 Cut Tab, Letter Size, Manila, Durable & Tear-Resistant File Org",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01602,OtterBox Defender Series Pro XT Case with Pixelsnap for Google Pixel 10 Pro XL - Dark Side Black,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01608,Cards Against Humanity,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01609,Dutch Blitz (Green),Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01610,Dutch Blitz (Blue),Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01612,PB9000 EMC Test,Other,AG00038,Certification & Compliance,0,,0,,Active,,,1,Electronic Test Centre - MPB Technologies Inc.,,,,,,articles_20260928.csv,Certification / compliance services
+A01619,Lenovo Yoga Tab,Other,AG00036,Tangible Assets - Computer,0,EA,0,,Active,,,1,Lenovo,ZAG60266US,,,,,articles_20260928.csv,Office computer assets
+A01620,MM100 Gaming Mouse Pad,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office furniture / equipment
+A01621,G305 Lightspeed Wireless Mouse,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office supplies
+A01624,Screen Shine Refil Bottle 500 ml,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office supplies
+A01632,PLA Basic - Filament with spool / 1 kg / Grey,Other,AG00014,"3D Printing Material (FDM, SLS)",1,EA,0,,Active,,,1,"Elegoo
+Amazon
+Spool3d
+Bambu lab
+Memory Express",,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A01635,Philips 463398 Led 60W A19 Daylight Non Dimmable(5000K)-4 Count,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01637,Globe Electric 24302 10ft Medium Duty 3-Outlet Indoor Extension Cor…,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01638,"Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4…",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01640,Sticky Notes (5 pack),Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01641,"STAEDTLER Mars Plastic Vinyl Erasers (2-Pack), White Erasers for Clean &…",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01642,BIC Round Stic Extra Life Long-Lasting Ink and Comfortable Grip B…,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01643,AMUU Rubber Bands Large 120 Pack Size #117 Big Elastic Bands For Offi…,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01647,"Amazon Basics Woodcased Classroom #2 Pencils with Erasers, Pre-sharpened, HB Lead, Value Pack of 30",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01648,"STAEDTLER pencil sharpener, premium quality sharpener with screw-on lid, prevents accidental opening",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01652,Online Course - Mastering Microcontroller and Embedded Driver Development,Other,AG00043,Educational Funds,0,EA,0,,Active,,,1,Udemy,,,,,,articles_20260928.csv,Education / training
+A01653,Online Course - Microcontroller Embedded C Programming: Absolute Beginners,Other,,,0,,0,,Active,,,1,Udemy,,,,,,articles_20260928.csv,Online course
+A01654,Online Course: Crash Course Arduino and Microcontroller Development,Other,,,0,,0,,Active,,,1,Udemy,,,,,,articles_20260928.csv,Online course
+A01661,"Sony WH-1000XM6 The Best Wireless Noise Canceling Headphones, HD NC Processor QN3, 12 Microphones, A",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01664,"4000 PCS 3/4"" Colored Dot Stickers Circle Color Coding Labels, 8 Color Style Colorful Coding Label S",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01670,"Desktop Glass Dry Erase Whiteboard with Wooden Storage Box for Office Supplies, Keyboard Stand, Desk",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01673,"Logitech Signature M550 Wireless Mouse - for Small to Medium Sized Hands, 2-Year Battery, Silent Cli",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01674,OtterBox Symmetry Series Clear Case with Pixelsnap for Google Pixel 10 & Pixel 10 Pro - Clear,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01678,Bambu High Flow Hardened Steel Hot End (8mm),Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01679,Bambu High Flow Hardened Steel Hot End (6mm),Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01680,Bambu High Flow Hardened Steel Hot End (4mm),Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A01691,"Formlabs - Fuse 1+ 30W Build Your Own Package 120V (1 Fuse 1+ 30W Printer 120V incl. cleaning kit,",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01692,Formlabs - Fuse 1 Build Chamber 120V,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01693,Formlabs - Fuse Sift 120V,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01694,Formlabs - Fuse Blast,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01695,FormLabs - Industrial Vacuum 110V,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01696,"Formlabs - Nylon 12 Powder (10 kg) (Fuse 1, Fuse 1+)",Other,AG00014,"3D Printing Material (FDM, SLS)",0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,Filament / 3D-printing feedstock
+A01697,Formlabs - Fuse 1 Printer Stand,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01698,Formlabs - Fuse 1 Optical Cassette,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01699,Formlabs - Fuse 1 Powder Cartridge,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01700,Formlabs - Fuse Sift Glovebox Bundle,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01701,"PostPro SFX, Machine Stand, 6 x Processing Racks, Storage Stand, Preparation Stand, 3 x FA5802 Cartr",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01702,"Installation and Operator training, Formlabs Fuse 1+, Performed by Reseller",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01703,All material recipes for the PostPro SFX  Includes unlimited updates on request,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01705,TriMech Store Credit * No Expiry Date - typically used for Consumables / future materials etc,Consumable,AG00017,Consumable,0,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv,Supplier store credit
+A01728,Acrimet Premium Desktop Tape Dispenser,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01736,SanDisk 32GB High Endurance,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,3D-printer maintenance
+A01741,ThinkPad P14s Gen 6 Intel (14″) Mobile Workstation,Other,AG00036,Tangible Assets - Computer,0,EA,0,,Active,,,1,Lenovo,21QTCTO1WW,,,,,articles_20260928.csv,Office computer assets
+A01745,"120 PCS Trading Card Dividers with Tabs – Organize Game, Sports, and Collectible Cards – 12 Colors P",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01746,"USB C Docking Station for Laptop Dual Monitor, 9 in 1 Triple 4K USB C Hub 4 Monitors Adapter with Du",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01747,"Acer USB Hub 3.0, 4-Port Ultra Slim USB Adapter 2FT with Type-C 5V3A, USB-A Splitter Extender for La",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01751,"UGREEN USB C to USB Adapter 2 Pack, 3.2 Gen 2 10Gbps C Male to A Female Adapter Thunderbolt 4 3 OTG",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01755,MX Master 4 for Mac,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Logitech,,,,,,articles_20260928.csv,Office supplies
+A01756,MX Master 4,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Logitech,,,,,,articles_20260928.csv,Office supplies
+A01789,Magnetic Door Stoppers 6 Pack Brushed Nickel No Drilling Needed 3M Adhesive or Screw Mount Soft-Catc,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01790,"2 Pack Ultra Flat Plug Power Bar,Power Bars with Surge Protection-4 Widely Outlets,6 ft Flat Plug Ex",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01791,"Pentel WhiteBoard Dry Erase Marker, 3.0mm Bullet Point, Markers for Whiteboards, Free of Harmful Che",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01792,"Pentel WhiteBoard Dry Erase Marker, 3.0mm Bullet Point, Markers for Whiteboards, Free of Harmful Che",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01793,"Pentel WhiteBoard Dry Erase Marker, 3.0mm Bullet Point, Markers for Whiteboards, Free of Harmful Che",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01794,"Pentel WhiteBoard Dry Erase Marker, 3.0mm Bullet Point, Markers for Whiteboards, Free of Harmful Che",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01795,"U Brands Side Magnetic Dry Erase Board Eraser, Thick Felt Bottom Surface, 2 x 5 x 1 Inches, White",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01799,"LBSC USB A to USB C Splitter Cable, Multi USB C Splitter Cable, 6 in 1 USB 2.0 Type A Male to 6 USB",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01803,"Desk Calendar 2026 (January 2026 to June 2027),Desk Calendar 2026 large 22 x17,Desk Calendar 2026-20",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01813,Arofa Handheld Bidet Sprayer for Toilet-Adjustable Water Pressure Control with Bidet Hose for Femini,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01829,"ELEGOO Saturn 4 Ultra 16K Resin 3D Printer, 10-Inch Mono LCD, 150mm/h High Speed Printing, Smart Aut",Other,R&D,Research & Development,0,EA,0,,Active,,,1,"Elegoo
+Amazon",,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01848,"HOMCOM 24"" Vertical Filing Cabinet with Lockable Drawer, Mobile File Cabinet with 2 Keys, Wheels for",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01852,"BENFEI USB C to HDMI Adapter 4K@60Hz, USB Type-C to HDMI Adapter [Thunderbolt 3/4/5 Compatible] with",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A01856,Formlabs - Fuse Blast Polishing System,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Javelin Technologies,PKG-FS1-FB-PS-01,,,,,articles_20260928.csv,3D-printer equipment / accessories
+A01861,Meal,Other,AG00037,Meals & Entertainment,0,EA,0,,Active,,,1,"Supermicro
+Domino's Pizza
+Save-On-Food
+Walmart
+Tim Hortons
+Original Joe's Deerfoot City
+Kinjo
+Pho Hoan Pasteur
+Hot Million
+Friends Pizza and Pasta
+Kiwa Korean Restaurants
+Landmark theater
+Rea's Italian Cucina
+IFLY
+Multi - Vendor - Fun day",,,,,,articles_20260928.csv,Meals / entertainment
+A01862,Gift Card,Other,AG00016,Promo Apparel (Merchandise Goods),0,EA,0,,Active,,,1,Circle K,,,,,,articles_20260928.csv,Clothing / promotional merchandise
+A01863,Monitor Dell,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Best Buy,,,,,,articles_20260928.csv,Office furniture / equipment
+A01864,Kallax N Shelf UT,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,IKEA,,,,,,articles_20260928.csv,Office furniture / equipment
+A01865,Kallax Insert/2drawer,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,IKEA,,,,,,articles_20260928.csv,Office furniture / equipment
+A01879,Single Monitor Arm,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office furniture / equipment
+A01880,BenQ Monitor,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office furniture / equipment
+A01908,Toque - Phyzbatch Definition,Other,AG00016,Promo Apparel (Merchandise Goods),50,EA,0,,Active,,,1,Card Pro,,,,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01910,Recycled Plastic Relax Fidget Stylus Pen,Other,AG00016,Promo Apparel (Merchandise Goods),500,EA,0,,Active,,,1,Card Pro,,,,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01911,Sweatpants,Other,AG00016,Promo Apparel (Merchandise Goods),7,EA,0,,Active,,,1,Card Pro,,,,,,articles_20260928.csv | inventory_20260928.csv,Clothing / promotional merchandise
+A01918,"PAPER TOWEL ROLL, WHITE, SINGLE FOLD, 10½ X 9¼ IN, 250 SHEETS, 1-PLY, 16 PK",Other,AG00025,Office Supply,2,EA,0,,Active,,,1,Grainger Canada,,,,,,articles_20260928.csv | inventory_20260928.csv,Office supplies
+A01919,"URINAL SCREEN, W/NON-PARA BLOCK, BIODEGRADABLE, CONTAINS ENZYMES, GRN APPLE SCENT, 7 X 7 IN, CA 12",Other,AG00039,Cleaning Supplies,1,EA,0,,Active,,,1,Grainger Canada,,,,,,articles_20260928.csv | inventory_20260928.csv,Building / washroom cleaning supplies
+A01920,"ESTESOL HAND SOAP, 1 L CARTRIDGE, DYE FREE SCENT, GENERAL SKIN CLEANSING, COLOURANT-FREE, DYE-FREE,",Other,AG00039,Cleaning Supplies,4,EA,0,,Active,,,1,Grainger Canada,,,,,,articles_20260928.csv | inventory_20260928.csv,Building / washroom cleaning supplies
+A01928,Dual Monitor Mount,Other,AG00022,Office Fixture & Equipment,1,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv | inventory_20260928.csv,Office furniture / equipment
+A01929,Tape 48NP,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Home Depot,,,,,,articles_20260928.csv,Office furniture / equipment
+A01930,Paint Rolls,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Home Depot,,,,,,articles_20260928.csv,Office furniture / equipment
+A01931,Screw (OPS),Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Home Depot,,,,,,articles_20260928.csv,Office furniture / equipment
+A01932,2x5 SPR FLK (OPS),Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Home Depot,,,,,,articles_20260928.csv,Office furniture / equipment
+A01933,UPW FLAT INT (OPS),Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Home Depot,,,,,,articles_20260928.csv,Office furniture / equipment
+A01934,DMT 3.791 (OPS),Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Home Depot,,,,,,articles_20260928.csv,Office furniture / equipment
+A01940,"Yealink WH68 Hybrid with Charging Stand ANC Headsets, 492ft Rang DECT & Bluetooth Wireless Headset,",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A01942,"Uline Dry Erase Markers - Bullet Tip, Black 12/box",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Office supplies
+A01943,"Quick Change Fiberglass Mop Handle - 60"", Yellow",Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A01944,"Heavy Duty Wet Mop Head - 24 oz, Blue",Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A01945,"Rubbermaid® WaveBrake® Bucket/Wringer - Side Press, 35 Quart, Yellow",Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A01946,Rubbermaid® Dirty Water Bucket - 18 Quart,Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A01947,"Contractors Broom - 30"", Medium Bristles",Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A01948,Little Red Cart,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01950,Uline Trash Can Dolly,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01951,"Uline Industrial Trash Liners - 6-7 Gallon, 1.2 Mil, Black 250/carton",Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A01952,"Uline Economy Trash Liners - Black, 12-16 Gallon, .31 Mil 1,000/carton",Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A01953,"Mobile Wide Span Storage Rack - 48 x 24 x 67""",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A01954,"Cord Protector - 25', Standard, Black",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Office supplies
+A01955,"Husky 30 ft. 16 Gauge 13 Amps Indoor & Outdoor Medium Duty 3-Outlet Lighted Extension Cord, Black",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Home Depot,,,,,,articles_20260928.csv,Office supplies
+A02003,Toggler - 10 pk - Washer,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Home Depot,,,,,,articles_20260928.csv,Office furniture / equipment
+A02006,TPU 95A HF,Other,AG00014,"3D Printing Material (FDM, SLS)",3,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A02007,TPU for AMS,Other,AG00014,"3D Printing Material (FDM, SLS)",1,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A02036,Creality Thermal Paste for 3D Printer Hotend & Nozzle Kit High Thermal Conductivity 250℃ Resistant T,Other,AG00019,3D Printer Maintenance,2,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv | inventory_20260928.csv,3D-printer maintenance
+A02037,Creality Thermal Paste for 3D Printer Hotend & Nozzle Kit High Thermal Conductivity 250℃ Resistant T,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,,,,,,,articles_20260928.csv | inventory_20260928.csv,3D-printer maintenance
+A02038,HY700-50g CPU Thermal Heatsink Grease Paste Compound Thermal Conductivity: >3.14W/m-k Carbon Based H,Other,AG00019,3D Printer Maintenance,1,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv | inventory_20260928.csv,3D-printer maintenance
+A02048,8560776,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,,,,,,,articles_20260928.csv,Office supplies
+A02055,"BENFEI DisplayPort to HDMI, Benfei Gold-Plated DP Display Port to HDMI Adapter (Male to Female) Comp",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02056,"PLUGTUL 15 Feet White Indoor Extension Cord, 16 Gauge 2 Prong Extension Cord, 3 Polarized Outlets wi",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02057,"Pentel EnerGel X Retractable Liquid Gel Rollerball Pen, Everyday Writing, Office Supplies, School Su",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02058,CARM monitoring Subscription fee,Other,AG00042,Prod Subscriptions,1,EA,0,,Active,,,1,Jori,,,,,,articles_20260928.csv | inventory_20260928.csv,Subscriptions
+A02059,2pcs Heavy Duty Hose Hanger Garden Hose Storage Black Water Hose Holders for Outside Wall Mount Stur,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02060,"BX-300/F(8)-JR 3D Printer Food Grade Anti-Wear Grease, High Temperature Formula, 30g/1.05oz",Other,AG00019,3D Printer Maintenance,1,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv | inventory_20260928.csv,3D-printer maintenance
+A02062,"Plastic Stackable Bins - 7 x 12 x 4"", Clear",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,0,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A02063,"Plastic Stackable Bins - 4 x 12 x 4"", Clear",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,0,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A02064,"Plastic Stackable Bins - 7 1/2 x 4 x 3"", Clear",Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,0,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A02067,"Aelga 12 OZ Glass Sugar Dispenser with Pour Spout, Weighted Pourer, for Coffee,Tea and Baking",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02069,"DEWENWILS 3 Outlet Extension Cord with Flat Plug, 25 FT 16/3 Awg Grounded Power Cable for Indoor Use",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02071,Infinity Lights,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,COSTCO,,,,,,articles_20260928.csv,3D-printer maintenance
+A02073,Silicone Desiccant,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A02074,"GhostCover Original Premium Ultra Thin Keyboard Cover Protector, Compatible with 2021-2026 MacBook P",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02075,"JETech Screen Protector for MacBook Pro 14-Inch (M1-M5, 2021-2026), Anti-Glare PET Matte Film, Anti-",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02079,Meeting Owl (Speaker/Telecom),Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Owl Labs,,,,,,articles_20260928.csv,Office furniture / equipment
+A02083,Borgeby,Other,AG00022,Office Fixture & Equipment,1,EA,0,,Active,,,1,IKEA,,,,,,articles_20260928.csv | inventory_20260928.csv,Office furniture / equipment
+A02084,Borgeby Side Table,Other,AG00022,Office Fixture & Equipment,2,EA,0,,Active,,,1,IKEA,,,,,,articles_20260928.csv | inventory_20260928.csv,Office furniture / equipment
+A02085,"COSIMIXO 4 Pack Marking Floor Tape, 2in x 30y, Black & Yellow Safety Caution Tape, No Residue, Stron",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02086,"Lockport Gaffers Tape 2 Inch - 30 Yards - Waterproof, No Residue, Non-Reflective, Easy Tear, Matte G",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02087,"Ring Battery Doorbell (newest model), Retinal 2K with wide-angle video, up to 6x Enhanced Zoom, Two-",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02089,Citylife 8 Packs 5.3QT. Plastic Storage Bins with Latching Lids Clear Storage Box with handle Stacka,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02097,Floor Epoxy (Prod),Consumable,AG00017,Consumable,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Building floor coating
+A02101,Costco Gas (Shipping),Consumable,Shipping,Shipping,0,EA,0,,Active,,,1,COSTCO,,,,,,articles_20260928.csv,Vehicle fuel
+A02102,G213 Prodigy RGB LED Gaming Keyboard,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office supplies
+A02110,Thinkcenter Laptop (Antoine),Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,"Memory Express
+Lenovo",,,,,,articles_20260928.csv,Office furniture / equipment
+A02111,"DJI RS 4 Mini Combo, Gimbal Stabilizer for Camera",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02112,DJI RS Intelligent Tracking Module,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02113,"Lekufee Waterproof Hard Carrying Case for DJI RS 4 Mini, Combo, Gimbal Stabilizer, DJI",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02114,NEEWER Replacement Battery and Charger Set for DMW-BLK22,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02115,RAINSMORE Camera Backpack Professional for DSLR/SLR Mirrorless Waterproof 15.6,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02116,"SanDisk 128GB Extreme PRO SDXC UHS-II Memory Card - C10, U3, V60, 6K, 4K UHD",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02117,"NEEWER Photography Lighting Kit with Backdrops,8.5x10ft Backdrop Stands,5700K",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02118,"K&F CONCEPT 15-in-1 Camera Lens Cleaning Kit with Air Blowing, Wipes*6, 60ml",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02119,"K&F CONCEPT 15-in-1 Camera Lens Cleaning Kit with Air Blowing, Wipes*6, 60ml",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02120,"USB C Docking Station for Laptop Dual Monitor, USB C Hub Dual HDMI Adapter to 2",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02121,"Chalkola Dry Erase Markers Bulk (60 Pack, 12 Vibrant Colors) | Chisel Tip WhiteBoard",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02122,"16 Pack Magnetic Wet Erase Markers, Liquid Chalk Ultra Fine Tip for Acrylic Calendar",Other,AG00025,Office Supply,0,,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02123,"Apple MacBook Pro 14.2"" (2026) - Space Black (Apple M5 Pro / 24GB RAM / 1TB SSD)",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Best Buy,,,,,,articles_20260928.csv,Office furniture / equipment
+A02124,Panasonic LUMIX DCS5M2K Full-Frame Mirrorless Camera with 20-60mm Lens Kit,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Best Buy,,,,,,articles_20260928.csv,Office furniture / equipment
+A02125,"ProArt PA278CV 27in QHD 1440P IPS LED LCD w/ HAS, Speakers",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office furniture / equipment
+A02126,"PRO MT81D Aluminum Dual Monitor Stand Arms w/ VESA Compatible, Black MX00130321",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office furniture / equipment
+A02127,Sigma 28-70mm F2.8 DG DN for L-Mount,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02145,Compatible TN830XL Toner Cartridges Replacement for Brother TN830XL TN-830 TN830 XL/V/R Toner Cartri,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02146,"Neewer Heavy Duty Photographic Sandbag Studio Video Sand Bag for Light Stands, Boom Stand, Tripod -2",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02147,"NEEWER 72 inch Camera Tripod Monopod with Center Column and Ball Head Aluminum, Arca Type QR Plate",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02155,"BEAUTURAL 1200-Watt Handheld Steamer for Clothes, 30-Second Heat-up, 8.79-Ounce Water Tank",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02161,Bambu Hotend - H2D -  0.6mm Stainless Steel - Highflow,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A02163,5 port Gigabit Switch,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office furniture / equipment
+A02164,Magnetic Whiteboard Eraser,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02167,"Esdiplot 7 L Plastic Rectangular Trash Can, Garbage Bin, 4 Packs, Black",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02168,Aliexpress - Smooth PEO Smooth PET (257mmx257mm),Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Ali Express,,,,,,articles_20260928.csv,3D-printer maintenance
+A02171,3D Printer Filtration V1 Filters,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Mintion,,,,,,articles_20260928.csv,3D-printer maintenance
+A02172,15-in-1 Air Quality Monitor MT15,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Mintion,,,,,,articles_20260928.csv,3D-printer maintenance
+A02173,3D Printer Filtration System V1,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Mintion,,,,,,articles_20260928.csv,3D-printer maintenance
+A02174,Exam fees,Other,AG00043,Educational Funds,0,EA,0,,Active,,,1,APEGA,,,,,,articles_20260928.csv,Education / training
+A02179,Cardboard TCG Storage Box (2 rows),Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02183,Data Server,Other,AG00036,Tangible Assets - Computer,0,EA,0,,Active,,,1,Supermicro,,,,,,articles_20260928.csv,Office computer assets
+A02184,"Brother P-touch PT-N10 Personal Handheld Label Maker Machine with Btag Tape, Portable Label Printer,",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02189,"Mastercraft Adjustable 5-Shelf Steel Metal & Wood Storage Rack / Shelving Unit, 36 x 16 x 72-in",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Canadian Tire,,,,,,articles_20260928.csv,Office furniture / equipment
+A02190,"Sterilite ClearView Storage Box with Latched Lid, 62-L",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Canadian Tire,,,,,,articles_20260928.csv,Office furniture / equipment
+A02192,"Anker USB C Cable, [2-Pack, 6 ft] Type C Charger Premium Nylon USB Cable, USB A to Type C Charging C",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02193,"DMDMBATH for Google Pixel 10 Case/Pixel 10 Pro Case with Slide Camera Cover+Kickstand Ring,",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02194,"Amazon Basics Wide Ruled Lined Writing Note Pads, 8.5 inch x 11.75 inch, White, 12 Count (12 Pack of",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02197,"Retractable Teacher Pointer for Classroom Kids Reading, Dumero Extendable Finger Pointer Stick, Scho",Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02213,Ikea Coffee Mugs (Daggaster),Other,AG00025,Office Supply,0,EA,0,,Active,,,1,IKEA,,,,,,articles_20260928.csv,Office supplies
+A02215,University Physics  Textbook (Denis),Other,AG00043,Educational Funds,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Education / training
+A02242,Black Heavy Duty Wire Cart,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Furniture / storage fixtures
+A02243,Acer Wiresless Mouse,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office supplies
+A02247,Flash Furniture Folding Table 18x60in,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02249,"2 Pack 2600mAh DMW-BLK22 Batteries & Dual Slot LED Battery Charger, Replacement Battery for Panasoni",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02251,"Selore 3 HDMI Docking Station, Triple Display Docking Station for Laptop | 3 Monitors with Triple HD",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02252,"QUTOOL Lumbar Support Pillow for Office Chair, High-Density Memory Foam Back Cushion with Dual Adjus",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02255,Activated Carbon Air Filter - X1/P1 Series,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+A02256,Zero 6108 Mechanical Keyboard,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Memory Express,,,,,,articles_20260928.csv,Office supplies
+A02258,Engineering Design Methods: Strategies for Product Design,Other,AG00043,Educational Funds,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Education / training
+A02259,The Art of Electronics,Other,AG00043,Educational Funds,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Education / training
+A02260,"BEXEVUE 63""x55"" L Shaped Standing Desk, Reversible Sit Stand Desk,Electric Height Adjustable Desk L",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02262,Suggestion Box with Slot and Lock & 50 Suggestion Sheets Wall Mounted Comment Ballot and Donation Bo,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02265,"Formlabs - Nylon 12 Powder (10 kg) (Fuse 1, Fuse 1+)",Other,AG00014,"3D Printing Material (FDM, SLS)",6,EA,0,,Active,,,1,Javelin Technologies,,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+A02270,Home Office Ergonomic Mesh Task Chai,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Wayfair Canada,,,,,,articles_20260928.csv,Office supplies
+A02313,"Whicow LED Desk Lamp Eye-Caring Table Lights,5 Lighting Modes & 5 Brightness Levels, Touch Control A",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02314,"Desk Lamp, LED Reading Light with Clamp, 3 Color Modes & 10 Brightness Silicone Flexible Arm Book Li",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02316,"REOGLE 2-in-1 Bug Zapper Indoor Outdoor, 4000V Electric Mosquito Zapper with 365nm UV Light Trap & L",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02318,Master Lock Magnum,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Canadian Tire,,,,,,articles_20260928.csv,Office furniture / equipment
+A02319,Garage Door Slider,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Canadian Tire,,,,,,articles_20260928.csv,Office furniture / equipment
+A02320,Epipen,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Shoppers,,,,,,articles_20260928.csv,Office supplies
+A02321,Propane Tank,Other,AG00025,Office Supply,0,EA,0,,Active,,,1,Shell Canada,,,,,,articles_20260928.csv,Office supplies
+A02334,"Rattan Floor Lamps, Tree Standing Lamp with Wood Rattan Lampshades",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02335,Creative Live! Cam Sync 1080p V2 Full HD Webcam with Dual Mics,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02336,"Kasa Smart Plug Mini HS103P4, Wi-Fi Outlet Works with Alexa, 4-Pack",Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02349,Triple Monitor Mount EF323B,Other,AG00022,Office Fixture & Equipment,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,Office furniture / equipment
+A02350,"Uline Industrial Trash Liners - 12-16 Gallon, 1.5 Mil, Black",Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,Uline,,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A02354,"Garbage Bags, 208L - For Uline Garbage Bin",Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,COSTCO,,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A02357,Uline Kraft Multi-Fold Towels,Other,AG00039,Cleaning Supplies,0,EA,0,,Active,,,1,Uline,S-13735,,,,,articles_20260928.csv,Building / washroom cleaning supplies
+A02358,APEGA Membership,Other,AG00038,Certification & Compliance,0,EA,0,,Active,,,1,APEGA,,,,,,articles_20260928.csv,Certification / compliance services
+Available to Use,Available to Use,Other,,,0,EA,0,,Active,,,1,,,,,,,articles_20260928.csv | inventory_20260928.csv,"Availability placeholder, not a part"
+G0001,P1S FDM 3DP - Bambu lab,Tools,AG00024,Prod Tool & Equipment,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer equipment / accessories
+G0005,PLA Basic - Filament with spool / 1 kg / Black,Other,AG00014,"3D Printing Material (FDM, SLS)",201,EA,0,,Active,,,1,"Elegoo
+Amazon
+Spool3d
+Memory Express
+Bambu lab",,,,,,articles_20260928.csv | inventory_20260928.csv,Filament / 3D-printing feedstock
+G0008,Liquid Glue for Build Plate <br />( PLA/ABS/PETG ),Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Bambu lab,,,,,,articles_20260928.csv,3D-printer maintenance
+G0009,Bambu Textured PEI Plate - X1 Series/P1 Series/A1,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,"Amazon
+Bambu lab",,,,,,articles_20260928.csv,3D-printer maintenance
+OTS0205,WD-40,Other,AG00019,3D Printer Maintenance,0,EA,0,,Active,,,1,Amazon,,,,,,articles_20260928.csv,3D-printer maintenance
